@@ -1,4 +1,4 @@
-# 195410006_ResponsiCloud
+# 195410002_Responsi_Teknologi_Cloud
 
 berikut link image php:7.4-apache yang digunakan : 
 
@@ -8,16 +8,16 @@ berikut link image php:7.4-apache yang digunakan :
 Petunjuk : 
 1. git clone pada terminal anda : 
 
-                           git clone https://github.com/ikhsansyahrizal/195410006_ResponsiCloud.git
+                           git clone https://github.com/Jeremia195410002/responsi.git
                            
 2. pull image dari dockerhub ke terminal anda : 
 
-                            docker pull ikhsansyahrizal/195410006responsi
+                            docker pull masjeje/cloud
 
 
 3. masuk kedalam direktori file yang diambil dari github : 
 
-                            cd 195410006_ResponsiCloud
+                            cd Jeremia195410002
 
 
 4. setelah masuk kedalam direktori 195410006_ResponsiCloud/ jalankan perintah berikut :
@@ -38,9 +38,9 @@ Petunjuk :
                             Database : (kosongkan, jangan di isi)
                             
                             
-    lalu create database dengan nama : data                    
+    lalu create database dengan nama : dj                    
     
-    buat tabel dengan nama : tb_blog
+    buat tabel dengan nama : tj
     
     lalu buat colom : 
     
