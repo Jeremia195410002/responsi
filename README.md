@@ -1,4 +1,4 @@
-# 195410002_Responsi_Teknologi_Cloud
+# Jeremia195410002/Responsi
 
 berikut link image php:7.4-apache yang digunakan : 
 
@@ -20,7 +20,7 @@ Petunjuk :
                             cd Jeremia195410002
 
 
-4. setelah masuk kedalam direktori 195410006_ResponsiCloud/ jalankan perintah berikut :
+4. setelah masuk kedalam direktori Jeremia195410002/ jalankan perintah berikut :
 
                             docker-compose up -d
 
@@ -56,8 +56,6 @@ Petunjuk :
                     
 7. buka lagi localhost, lalu masuk ke menu CRUD. sekarang telah bisa melakukan proses CRUD pada web ini.
 
-8. untuk mematikan docker ketikkan syntax berikut pada terminal : 
 
-                    docker-compose stop
     
                         
